@@ -24,3 +24,5 @@
 📌 Number of Participating Countries: 148
 📌 Gender-Based Medal Distribution: Male (72.53%) vs Female (27.47%)
 📌 Top Performing Countries: USA, USSR, GBR, FRA, ITA, GER, SWE
+
+
