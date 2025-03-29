@@ -26,3 +26,4 @@
 📌 Top Performing Countries: USA, USSR, GBR, FRA, ITA, GER, SWE
 
 
+![Dashboard Preview](dashboard.png)
