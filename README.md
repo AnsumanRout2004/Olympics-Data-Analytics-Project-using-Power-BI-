@@ -1,7 +1,10 @@
 # 🏅 Olympics Data Analytics Project using Power BI
 
-## 📌 GitHub Repository
+## 📌 GitHub Repository Link
 [Olympics Data Analytics Project](https://github.com/AnsumanRout2004/Olympics-Data-Analytics-Project-using-Power-BI-)
+
+
+
 
 ![Dashboard Preview](https://github.com/AnsumanRout2004/Olympics-Data-Analytics-Project-using-Power-BI-/blob/main/Screenshot%202025-02-01%20045523.png)
 
