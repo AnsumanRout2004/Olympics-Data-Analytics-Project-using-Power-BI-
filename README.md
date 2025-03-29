@@ -3,6 +3,8 @@
 ## 📌 GitHub Repository
 [Olympics Data Analytics Project](https://github.com/AnsumanRout2004/Olympics-Data-Analytics-Project-using-Power-BI-)
 
+![Dashboard Preview](https://github.com/AnsumanRout2004/Olympics-Data-Analytics-Project-using-Power-BI-/blob/main/Screenshot%202025-02-01%20045523.png)
+
 ## 📌 Project Overview
 The Olympics Data Analytics Dashboard is an interactive Power BI project that provides comprehensive insights into Olympic Games history, covering medal statistics, athlete performance, country-wise participation, and more. This project is designed to explore trends, uncover key insights, and enhance data-driven decision-making in sports analytics.
 
