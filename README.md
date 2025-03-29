@@ -26,4 +26,4 @@
 📌 Top Performing Countries: USA, USSR, GBR, FRA, ITA, GER, SWE
 
 
-![Dashboard Preview](dashboard.png)
+![Dashboard Preview](https://github.com/AnsumanRout2004/Olympics-Data-Analytics-Project-using-Power-BI-/blob/main/Screenshot%202025-02-01%20045523.png)
