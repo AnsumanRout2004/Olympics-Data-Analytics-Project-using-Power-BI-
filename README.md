@@ -50,12 +50,6 @@ The Olympics Data Analytics Dashboard is an interactive Power BI project that pr
 ## 🏁 Conclusion
 This project showcases the power of Power BI in analyzing large datasets and providing meaningful insights into Olympic history. It serves as a valuable resource for researchers, sports analysts, and enthusiasts interested in exploring Olympic trends.
 
-## 🤝 Feedback & Collaboration
-We welcome contributions and feedback! Feel free to:
-✅ **Fork** the repository and contribute enhancements.  
-✅ **Raise issues** for improvements or bugs.  
-✅ **Share your thoughts** to help improve the project further!  
-
 ---
 ✨ **Developed with Passion for Data Analytics!** ✨Dashboard created by :Ansuman Rout
 
